@@ -1,0 +1,14 @@
+C:\Users\angbo\Documents\CIS199-75\Labs\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\angbo\Documents\CIS199-75\Labs\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\angbo\Documents\CIS199-75\Labs\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\angbo\Documents\CIS199-75\Labs\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\angbo\Documents\CIS199-75\Labs\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\angbo\Documents\CIS199-75\Labs\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\angbo\Documents\CIS199-75\Labs\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\asus\Downloads\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\asus\Downloads\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\asus\Downloads\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\asus\Downloads\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\asus\Downloads\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\asus\Downloads\Lab1\Lab1\obj\Debug\Lab1.pdb
